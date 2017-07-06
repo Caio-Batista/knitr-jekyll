@@ -1,0 +1,9 @@
+---
+layout: post
+title:  Primeira Postagem (Ubuntu)
+date: `r Sys.time()`
+published: true
+tags: [htmlwidgets, r]
+---
+
+e depois os R code chunks.
